@@ -7,10 +7,21 @@
 
 ---
 
+<!-- Ikon Sosial Media -->
+<p align="center">
+  <a href="https://www.instagram.com/roeellz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:roeellz@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <!-- Deskripsi Singkat -->
 <p align="center">
   💻 Web Developer | 🎨 UI Designer  
-  📷 <a href="https://www.instagram.com/roeellz/" target="_blank">Instagram: @roeellz</a>  
   🚀 Always exploring new technologies
 </p>
 
